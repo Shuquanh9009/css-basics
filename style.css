@@ -44,11 +44,11 @@ code{
     color: green;
     
 }
-a:link{
+a:link a:active{
     color:green;
 }
 a:visited{
-    color: green;
+    color: black;
 }
 a:hover{
     color: red
